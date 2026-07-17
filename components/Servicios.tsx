@@ -76,7 +76,7 @@ export default function Servicios() {
           
           <div className="relative w-full md:w-1/2 h-64 sm:h-[400px] " >
             <Image
-              src="/images/david.png"
+              src="/images/David.png"
               alt="david"
               fill
               className="object-contain object-right brightness-90"
