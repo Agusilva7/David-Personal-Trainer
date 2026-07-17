@@ -52,7 +52,7 @@ export const config = {
         "Levantá más, movete mejor. Método de progresión de cargas para desarrollar fuerza máxima y rendimiento estructural.",
     },
     {
-      imagen: "/images/plan-running-avanzado.jpg",
+      imagen: "/images/david-empujando.JPG",
       nombre: "HÍBRIDO",
       precio: "-15%",
       descripcion: "Fuerza funcional y capacidad aeróbica en un solo plan. Ideal para Hyrox y para quienes quieren rendir en todo.",
