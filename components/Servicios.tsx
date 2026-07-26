@@ -44,7 +44,7 @@ export default function Servicios() {
 
         {/* Mentoría 1 a 1 — premium banner */}
         <FadeIn delay={300} className="mt-12">
-          <div className="flex flex-row items-center border border-accent shadow-[0_0_30px_rgba(245,168,0,0.1)] bg-base overflow-hidden ">
+          <div className="flex flex-col md:flex-row items-center border border-accent shadow-[0_0_30px_rgba(245,168,0,0.1)] bg-base overflow-hidden ">
            {/* imagen de fondo */}
           <Image
             src="/images/David-Horizontal.JPG"
@@ -55,7 +55,7 @@ export default function Servicios() {
 
           {/* overlay opcional */}
           <div className="absolute inset-0 bg-black/40 " />
-            <div className="w-full md:w-1/2 p-6 lg:p-8 flex  flex-col justify-center z-10">
+            <div className="w-full md:w-1/2 h-[450px] md:h-auto pb-10 md:pb-0 p-6 lg:p-8 flex  flex-col justify-end md:justify-center z-10">
               <span className="font-condensed text-[19px] tracking-widest uppercase bg-accent text-base px-2 py-0.5 font-bold inline-block mb-3 w-40 text-center ">
                 Servicio premium
               </span>
@@ -74,12 +74,12 @@ export default function Servicios() {
             </div>
             
           
-          <div className="relative w-full md:w-1/2 h-64 sm:h-[400px] " >
+          <div className="relative w-full md:w-1/2 h-64 sm:h-[400px] hidden md:block" >
             <Image
               src="/images/David.png"
               alt="david"
               fill
-              className="object-contain object-right brightness-90"
+              className="object-contain object-right sm:overflow-hidden md:overflow-auto brightness-90"
               
             />
            

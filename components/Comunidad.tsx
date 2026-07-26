@@ -81,7 +81,7 @@ export default function Comunidad() {
 
           {/* Right: two photos */}
           <FadeIn direction="right" delay={150}>
-             <div className="grid grid-cols-2 gap-4">
+             <div className="grid grid-cols-2 gap-4 pt-8 md:pt-0">
               <MiniSlider fotos={sliderUno} />
               <MiniSlider fotos={sliderDos} className="mt-8" />
             </div>

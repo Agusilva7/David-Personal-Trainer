@@ -8,7 +8,7 @@ export const config = {
   tope: {
     instagram: "https://www.instagram.com/topeclub/",
     handle: "@TOPECLUB",
-    unirse: "https://l.instagram.com/?u=https%3A%2F%2Fchat.whatsapp.com%2FE4WmHoRU7Tm61C2hYUrqAH%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGncYiEWfvv4uHSBfshKmL8Q7vVeqQrrOIGnE3ijFJVCnvr7EQ4_0_5xGg6Ot0_aem_sZkg8ZkMKK4FAFG9P4L19g&e=AUDiSxh0elKIXXEpntvZAKvsxDi8V9jtJo2SpNwTDDQsL5Or_PAYWxiNNBp7wn6m639w86Ri-ANwDsfCUsLqzDAaKRCDJH7B-6CZSOENOSmWCHZWfgZY0jBUYV2ELCjF1NnOnLo",
+    unirse: "https://l.instagram.com/?u=https%3A%2F%2Fchat.whatsapp.com%2FE4WmHoRU7Tm61C2hYUrqAH%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGnCh9ib0fsbFp-ky2P2hF2_z-xurX9RmeV_OMzJrXsL0yAKE5NsLjiVHdKlyk_aem_LtWSyq7tSKCwvKEME6T-hA&e=AUCwheeYu5TH0sd7LNqi606fBqtSmx8CAO9L8paG7Juy7-euPqTIA6oA-By9TsiUv65wMs5EVB9A6hf-wpL-DxVyMmkjXLg-ZjOrmviz4haRcMs43HIpE4W24Qw1021V8kT5dF4",
   },
 
   hero: {
@@ -40,21 +40,21 @@ export const config = {
     {
       imagen: "/images/David-Sky.JPG",
       nombre: "Hipertrofia",
-      precio: "-15%",
+      precio: "",
       descripcion:
         "El plan que uso para competir. Fuerza, máquinas y carrera combinadas para rendir las 8 estaciones sin caerte en la última.",
     },
     {
       imagen: "/images/plan-hipertrofia-wallball.jpg",
       nombre: "FUERZA",
-      precio: "-15%",
+      precio: "",
       descripcion:
         "Levantá más, movete mejor. Método de progresión de cargas para desarrollar fuerza máxima y rendimiento estructural.",
     },
     {
-      imagen: "/images/david-empujando.JPG",
+      imagen: "/images/plan-running-avanzado.jpg",
       nombre: "HÍBRIDO",
-      precio: "-15%",
+      precio: "",
       descripcion: "Fuerza funcional y capacidad aeróbica en un solo plan. Ideal para Hyrox y para quienes quieren rendir en todo.",
     }
   ],
