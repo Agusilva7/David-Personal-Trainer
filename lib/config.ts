@@ -73,17 +73,18 @@ export const config = {
       disciplina: "HYROX",
     },
     {
-      nombre: "Rocio barrera",
-      texto:
-        "David entiende exactamente lo que queres y necesitas. Te motiva para conocerte y mejorar.",
-      disciplina: "Híbrido",
-    },
-    {
       nombre: "Luciano trapanotto",
       texto:
         "Estuve años sin hacer deporte y pensé que nunca iba a poder volver, menos entrenar fuerte y a la altura de lo que queria . Pero conocí a David quien me brindo su conocimiento y experiencia para ayudarme en el proceso.",
       disciplina: "Mentoría",
     },
+    {
+      nombre: "Rocio barrera",
+      texto:
+        "David entiende exactamente lo que queres y necesitas. Te motiva para conocerte y mejorar.",
+      disciplina: "Híbrido",
+    },
+    
   ],
 
   comunidad: {
