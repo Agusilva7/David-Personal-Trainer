@@ -67,21 +67,21 @@ export const config = {
 
   testimonios: [
     {
-      nombre: "Martín G.",
+      nombre: "Lourdes camiolo",
       texto:
-        "Con David mejoré mi tiempo en HYROX más de 20 minutos en 4 meses. El plan híbrido es brutal.",
+        "La rutina personalizada y el seguimiento a distancia, fueron claves para los cambios fisicos y de fuerza. David un genio. Sin duda lo recomendaría 🙌🏽",
       disciplina: "HYROX",
     },
     {
-      nombre: "Laura P.",
+      nombre: "Rocio barrera",
       texto:
-        "Nunca pensé que podría combinar fuerza con running así de bien. Los resultados hablan solos.",
+        "David entiende exactamente lo que queres y necesitas. Te motiva para conocerte y mejorar.",
       disciplina: "Híbrido",
     },
     {
-      nombre: "Diego R.",
+      nombre: "Luciano trapanotto",
       texto:
-        "La mentoría 1 a 1 cambió mi forma de entrenar. David siempre disponible y muy detallado.",
+        "Estuve años sin hacer deporte y pensé que nunca iba a poder volver, menos entrenar fuerte y a la altura de lo que queria . Pero conocí a David quien me brindo su conocimiento y experiencia para ayudarme en el proceso.",
       disciplina: "Mentoría",
     },
   ],
