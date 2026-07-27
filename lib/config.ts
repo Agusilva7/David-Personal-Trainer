@@ -3,7 +3,7 @@ export const config = {
   whatsapp: "+5491164599442",
   instagram: "https://www.instagram.com/topeclub/",
   youtube: "",
-  tiktok: "",
+  tiktok: "https://www.tiktok.com/@silvaadaavid",
 
   tope: {
     instagram: "https://www.instagram.com/topeclub/",
